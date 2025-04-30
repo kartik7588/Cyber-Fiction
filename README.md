@@ -35,8 +35,7 @@ This project uses the following external libraries:
 These libraries are included via CDN links in the `index.html` file.
 
 ## License
-
-The fonts used in this project are licensed under the [Fontspring EULA](https://www.fontsquirrel.com/license/gilroy). Please ensure you comply with the license terms if you use the fonts in your own projects.
+This project is available under the MIT License.
 
 ---
 
